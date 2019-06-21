@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to hide the ASPxPanel on clicking outside its boundaries
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t229361/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to hide the ASPxPanel on clicking outside its boundaries. To achieve this, handle the jQuery.mouseup event and make sure that a clicked zone doesn't contain ASPxPanel. If so, call the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebScriptsASPxClientPanel_Collapsetopic">ASPxClientPanel.Collapse</a> function.</p>
